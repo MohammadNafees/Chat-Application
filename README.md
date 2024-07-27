@@ -48,7 +48,8 @@ Open your browser and navigate to http://localhost:3000 (or the port specified i
 Usage
 Register: Create a new account to start chatting.
 Login: Access your account with your credentials.
-Chat: Join or create a chat room and start messaging with other users.
+Chat: Join or create a chat room and start messaging with other users.!
+
 API Documentation
 If your project includes a backend server, provide details here about the endpoints and how to use them.
 
@@ -60,3 +61,26 @@ Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Registration Form
+![1](https://github.com/user-attachments/assets/60f72adb-936d-4faf-99f4-1aed1ccacbd9)
+
+LoginUser
+
+![2](https://github.com/user-attachments/assets/a0ab9760-5c90-4152-a8b2-850e34929f66)
+
+Chat-app
+
+
+![4](https://github.com/user-attachments/assets/e5b1a304-6932-49f6-a5e6-601a728abe96)
+
+Contributing
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a Pull Request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
